@@ -22,7 +22,7 @@
         "guzzlehttp/psr7": "^2.4",
         "symfony/panther": "^1.0",
         "fabpot/goutte": "^4.0",
-        "psr/log": "^1.1"
+        "psr/log": "^3.0"
     },
     "require-dev": {
         "symfony/var-dumper": "^v4.4",
