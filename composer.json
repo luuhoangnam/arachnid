@@ -19,7 +19,7 @@
         "php": ">=7.2.0",
         "ext-SPL": "*",
         "tightenco/collect": "^v8.34",
-        "guzzlehttp/psr7": "^1.4",
+        "guzzlehttp/psr7": "^2.4",
         "symfony/panther": "^1.0",
         "fabpot/goutte": "^4.0",
         "psr/log": "^1.1"
